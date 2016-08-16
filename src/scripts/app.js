@@ -16,3 +16,4 @@ SPA.config({
 	indexView: 'my'
 });
 console.log("hello my dream");
+console.log("protect my mother");
