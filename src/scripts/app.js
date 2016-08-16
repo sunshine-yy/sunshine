@@ -13,5 +13,6 @@ require('./views/index.js');
 
 // config
 SPA.config({
-	indexView: 'home'
+	indexView: 'my'
 });
+console.log("hello my dream");
